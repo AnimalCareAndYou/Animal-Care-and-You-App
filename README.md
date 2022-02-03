@@ -3,7 +3,7 @@ This is the code that powers the Animal Care and You mobile application
 
 The app was built using Flutter and Dart
 Add the following 3rd party dependancies to your pubspec.yaml file:
-  cupertino_icons: ^1.0.0
+  cupertino_icons: ^1.0.0\n
   google_fonts: ^1.1.1
   provider: ^4.3.2+3
   url_launcher: ^6.0.2
